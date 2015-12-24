@@ -20,8 +20,6 @@
 * THE SOFTWARE.
 */
 
-//////Im just testing
-
 import UIKit
 
 let FLICKR_API_KEY = "c8875c8427819e31e1141acfc7d522e8"
