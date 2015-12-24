@@ -23,7 +23,6 @@
 import UIKit
 
 let FLICKR_API_KEY = "c8875c8427819e31e1141acfc7d522e8"
-//"978d7216fb7560fbd505ddc25c7bc264"
 
 class Flickr {
 
