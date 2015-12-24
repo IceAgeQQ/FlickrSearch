@@ -24,7 +24,6 @@ import UIKit
 
 let FLICKR_API_KEY = "c8875c8427819e31e1141acfc7d522e8"
 
-
 class Flickr {
 
   enum SearchResult {
@@ -67,7 +66,8 @@ class Flickr {
 
       // If we get here, then must be error
       completion(result: .Error)
-    print("hello Chao and Xu")
+        print("hello world")
+        print("Hello Chao")
     }
   }
 
