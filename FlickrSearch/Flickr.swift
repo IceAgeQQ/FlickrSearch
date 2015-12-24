@@ -46,6 +46,7 @@ class Flickr {
 
       // If we get here, then must be error
       completion(result: .Error)
+        print("Hello World")
 
     }
   }
